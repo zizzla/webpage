@@ -2,12 +2,12 @@
 ---
 
 // Colors
-$primary: #e5261f;
-$primary-dark: #a01b16;
-$secondary: #f88379;
+$primary: #644f7f; /*#e5261f;*/
+$primary-dark: #3f3250; /*#a01b16;*/
+$secondary: #b1a2c5; /*#f88379;*/
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #fff6f8;
+$white-offset: #f0edf4; /* #fff6f8; */
 $steel: #5c5a5a;
 
 // Links
@@ -53,6 +53,7 @@ $sub-footer-text-color: $white;
 @import "components/intro-image";
 @import "components/strip";
 @import "components/feature";
+@import "components/service";
 @import "components/social";
 // @import "components/fonts"; // Uncomment this line to self host font
 

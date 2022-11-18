@@ -1,13 +1,15 @@
 ---
-title: "Business Sales"
-date: 2019-01-28T15:15:26+10:00
-weight: 2
+title: "Trendsetter"
+date: 2022-11-05T10:30:00+1:00
+weight: 1
+image:
+  path: images/features/noun_branding_1885335.svg
+  width: 80
+  height: 80
+label: images/favicon.svg
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

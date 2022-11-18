@@ -1,10 +1,14 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
-weight: 1
+title: "Pioneer"
+date: 2022-11-05T10:25:00+1:00
+weight: 2
+image:
+  path: images/features/noun_branding_1885335.svg
+  width: 80
+  height: 80
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Som pionjär har du vårt fulla stöd, ingen fråga är för svår. 
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
